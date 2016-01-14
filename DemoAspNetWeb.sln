@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAspNetWeb", "DemoAspNetWeb\DemoAspNetWeb.csproj", "{EAB82DA1-1133-4558-BA93-28DA7E2C2057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB82DA1-1133-4558-BA93-28DA7E2C2057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB82DA1-1133-4558-BA93-28DA7E2C2057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB82DA1-1133-4558-BA93-28DA7E2C2057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB82DA1-1133-4558-BA93-28DA7E2C2057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
